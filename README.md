@@ -1,1 +1,1 @@
-A simple javascript restful API made using express and mongodb Atlas.
+A simple javascript restful API made using express and mongodb.
